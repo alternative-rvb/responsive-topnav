@@ -5,4 +5,4 @@ Une barre de navigation simple à intégrer dans projet Web
 ## TODO
 
 - [ ] Créer l'arborescence
-- [ ] Modif de Nicolas
+- [ ] Colaborere avec un Bogosse Ion
