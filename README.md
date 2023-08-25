@@ -11,5 +11,5 @@ Une barre de navigation simple à intégrer dans projet Web
 
 - Ion
 - Salvatore Matraxia
-- Alex
+- Alex-Alex
 - Nicolas
