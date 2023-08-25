@@ -10,6 +10,6 @@ Une barre de navigation simple à intégrer dans projet Web
 ## Contributeurs
 
 - Ion
-- Salvatore
+- Salvatore Matraxia
 - Alex
 - Nicolas
