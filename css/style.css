@@ -1,0 +1,48 @@
+/* REBOOT CSS */
+:root {
+    --dark: dark;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: arial;
+  }
+  
+  /* FRAMEWORK CSS */
+  .d-flex {
+    display: flex;
+  }
+  
+  .wrap {
+    flex-wrap: wrap;
+  }
+  
+  .ai-c {
+    align-items: center; /* ↕ */
+  }
+  
+  /* CUSTOM CSS */
+  
+  .side-bar {
+    display: none;
+  }
+  
+  .main-nav__link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 16px;
+    color: var(--dark);
+  }
+  
+  .open {
+    display: flex;
+  }
+  
+  @media (min-width: 815px) {
+    .side-bar {
+      display: flex;
+    }
+  }
